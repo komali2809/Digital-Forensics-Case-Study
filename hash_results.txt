@@ -1,0 +1,33 @@
+hash-results.txt
+
+File: code1hash.pdf
+
+Using FTK Imager
+
+MD5: a35f168e1b111ceb1240ed2bbb33e91b
+
+SHA1: be66d79ef38e885e5a13c7042bb4ee52ddb82472
+
+File: code1_modified.pdf
+
+Using FTK Imager
+
+MD5: 545775bab6f93b1f188321aec08244a4
+
+SHA1:d2b3af6951621790ff72f6a990530eebfb64c77a
+
+File: code1hash.pdf
+
+Using Autopsy
+
+MD5: a35f168e1b111ceb1240ed2bbb33e91b
+
+SHA256: 8e628f6076430f0a0c873ec8fc10e556b140099756bd82be4cecac565a6ae33a
+
+File: code1_modified.pdf
+
+Using Autopsy
+
+MD5: 545775bab6f93b1f188321aec08244a4
+
+SHA256: 6d78b35c7a3399ce49a93a5619a108b26eb051ff059e6754c783880e4f02af57
