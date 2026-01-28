@@ -8,8 +8,8 @@ To demonstrate the use of cryptographic hash functions in digital forensics by v
 This project compares hash values of an original PDF file and a slightly modified PDF file using different forensic tools and hashing algorithms.
 
 ## Files Included
-- code1hash.pdf – Original PDF file
-- code1_modified.pdf – Modified version of the PDF
+- original_document.pdf – Original PDF file
+- modified_document.pdf – Modified version of the PDF
 - hash_results.txt – Hash values generated using MD5, SHA-1, and SHA-256
 
 ## Tools Used
